@@ -1,5 +1,7 @@
 # Summary
 A FreeCAD model for a speaker
+<img width="987" height="764" alt="image" src="https://github.com/user-attachments/assets/80241ea0-8eda-47f3-860a-8b329fde478c" />
+As of 20250926 1544 EDT.
 
 ## Vendor Information
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/7cc6add5-9f25-4d49-b532-e8ecc91fc2f8" />
